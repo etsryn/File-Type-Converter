@@ -39,7 +39,6 @@
    ```bash
    https://github.com/Priyanshiguptaaa/OCRLinguist.git
    ```
-   <br />
 **Step 1** : Download `poppler-0.68.0_x86.7z` file from above linked git repository.<br />
 **Step 2** : Extract the `.zip` file, by default in `C Drive`<br />
 **Step 3** : Open `poppler-0.68.0` then enter in `bin` directory, copy path `to bin`<br />
