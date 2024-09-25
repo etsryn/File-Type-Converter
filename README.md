@@ -19,8 +19,8 @@
    pip install --upgrade -r requirements.txt
    ```
    # Installation (Method 2)
-   1. Open any Integrated Development Environment IDE of your choice on a location where you wish to store the project, i used `VS Code` as IDE
-   2. Clone this `.git` repository
+1. Open any Integrated Development Environment IDE of your choice on a location where you wish to store the project, i used `VS Code` as IDE
+2. Clone this `.git` repository
    Use Command :
    ```bash
    git clone https://github.com/etsryn/File-Type-Converter.git
@@ -36,17 +36,6 @@
    ```bash
    pip install --upgrade -r requirements.txt
    ```
-   # Make sure you have the following installed:
-
-- Python 3.7 or above
-- Streamlit
-- Pillow
-- PyMuPDF (also known as `fitz`)
-- Pandas
-- `docx2pdf`
-- `pdf2docx`
-- `pdf2image`
-- ReportLab
 
 # File Structure
 📦 file-type-converter<br />
