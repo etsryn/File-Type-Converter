@@ -7,8 +7,7 @@
 1. Download `.zip` file for this project under `Code` option button on Repository Page
 2. Extract the `.zip` file to your preferred location
 3. Open any Integrated Development Environment IDE of your choice on extracted folder's location, i used `VS Code` as IDE
-4. Install the neceesary libraries if not installed earlier
-   Use Command :
+4. Install the neceesary libraries if not installed earlier, Use Command :
    ```bash
    pip install -r requirements.txt
    ```
