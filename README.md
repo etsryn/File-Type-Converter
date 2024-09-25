@@ -16,7 +16,7 @@ File Type Converter
    pip install -r requirements.txt
    ```
 
-   Or Update if already installed but not updated
+   Or Update if already installed but not updated <br />
    Use Command :
    ```bash
    pip install --upgrade -r requirements.txt
@@ -39,29 +39,7 @@ File Type Converter
    ```bash
    pip install --upgrade -r requirements.txt
    ```
-
-# Usage
-Since this project is a `streamlit`-based web application, so simply `py ftc.py` won't help to execute this program, instead use
-   ```bash
-   streamlit run ftc.py
-## Features
-
-- Convert **DOCX to PDF**
-- Convert **PDF to DOCX**
-- Convert **PDF to CSV**
-- Convert **CSV to PDF**
-- Convert **PDF to JPEG/JPG/PNG**
-- Convert **JPEG/JPG/PNG to PDF**
-
-## Demo
-
-You can run the application locally using Streamlit. Here's how to get started.
-
-## Getting Started
-
-### Prerequisites
-
-Make sure you have the following installed:
+   # Make sure you have the following installed:
 
 - Python 3.7 or above
 - Streamlit
@@ -73,8 +51,36 @@ Make sure you have the following installed:
 - `pdf2image`
 - ReportLab
 
-### Installation
-
-1. Clone the repository:
+# Usage
+Since this project is a `streamlit`-based web application, so simply `py ftc.py` won't help to execute this program, instead use
    ```bash
-   git clone https://github.com/your-username/file-type-converter.git
+   streamlit run ftc.py
+```
+## Features
+
+- Convert **DOCX to PDF**
+- Convert **PDF to DOCX**
+- Convert **PDF to CSV**
+- Convert **CSV to PDF**
+- Convert **PDF to JPEG/JPG/PNG**
+- Convert **JPEG/JPG/PNG to PDF**
+
+# Contributing
+1. You can improve the design of UI which may look more professional and easy to use
+2. You may add more functionality like PDF password encryption and decryption
+3. You may add functionality that allows user to rename the output file to their choice of name before downloading it
+
+# License
+Apache-2.0 license
+
+# Contact me at
+
+LinkedIn Account : www.linkedin.com/in/rayyan-ashraf-71117b249
+Instagram Account : @etsrayy
+Email At : ryshashraf@gmail.com
+
+# Changelog
+1. Currently working on 2nd point of Contributing section.
+
+# Conclusion
+This program is currently compiling with zero error, so you are good to go with it, Thank You
