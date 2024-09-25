@@ -49,11 +49,11 @@
 - ReportLab
 
 # File Structure
-📦 file-type-converter
-│
-├── 📜 app.py                 # Main Streamlit app file
-├── 📜 requirements.txt        # Python dependencies for the project
-├── 📜 README.md               # Project documentation (this file)
+📦 file-type-converter<br />
+│<br />
+├── 📜 app.py                 # Main Streamlit app file<br />
+├── 📜 requirements.txt        # Python dependencies for the project<br />
+├── 📜 README.md               # Project documentation (this file)<br />
 
 # Usage
 Since this project is a `streamlit`-based web application, so simply `py ftc.py` won't help to execute this program, instead use
