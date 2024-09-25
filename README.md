@@ -51,12 +51,12 @@
 # File Structure
 📦 file-type-converter<br />
 │<br />
-├── 📜 app.py                 # Main Streamlit app file<br />
-├── 📜 requirements.txt        # Python dependencies for the project<br />
-├── 📜 README.md               # Project documentation (this file)<br />
+├── 📜 app.py&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;&nbsp;Main Streamlit App file<br />
+├── 📜 requirements.txt&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;&nbsp;Python dependencies for the project<br />
+├── 📜 README.md&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;&nbsp;Project documentation (this file)<br />
 
 # Usage
-Since this project is a `streamlit`-based web application, so simply `py ftc.py` won't help to execute this program, instead use
+#### Since this project is a `streamlit`-based web application, so simply `py ftc.py` won't help to execute this program, instead use
    ```bash
    streamlit run ftc.py
 ```
@@ -68,6 +68,7 @@ Since this project is a `streamlit`-based web application, so simply `py ftc.py`
 - Convert `CSV` to `PDF`
 - Convert `PDF` to `JPEG/JPG/PNG`
 - Convert `JPEG/JPG/PNG` to `PDF`
+- More to come...
 
 # Contributing
 1. You can improve the design of UI which may look more professional and easy to use
