@@ -1,7 +1,7 @@
 # File-Type-Converter-FTC
 
 # Description
-**File Type Converter**, this Streamlit-based web application allows users to seamlessly convert between different file formats, including DOCX to PDF, PDF to CSV, and image-to-PDF conversions (JPEG, PNG, JPG). The application is designed to be user-friendly, fast, and reliable.
+**File Type Converter**, this `Streamlit-based` web application allows users to seamlessly convert between different file formats, including `DOCX` to `PDF`, `PDF` to `CSV`, and `image-to-PDF` conversions (`JPEG`, `PNG`, `JPG`). The application is designed to be **user-friendly**, **fast**, and **reliable**.
 
 # Installation (Method 1)
 1. Download `.zip` file for this project under `Code` option button on Repository Page
@@ -13,26 +13,23 @@
    pip install -r requirements.txt
    ```
 
-   Or Update if already installed but not updated <br />
-   Use Command :
+   Or Update if already installed but not updated, Use Command :
    ```bash
    pip install --upgrade -r requirements.txt
    ```
-   # Installation (Method 2)
+# Installation (Method 2)
 1. Open any Integrated Development Environment IDE of your choice on a location where you wish to store the project, i used `VS Code` as IDE
 2. Clone this `.git` repository
    Use Command :
    ```bash
    git clone https://github.com/etsryn/File-Type-Converter.git
    ```
-3. Install the neceesary libraries if not installed earlier
-   Use Command :
+3. Install the neceesary libraries if not installed earlier, Use Command :
    ```bash
    pip install -r requirements.txt
    ```
 
-   Or Update if already installed but not updated
-   Use Command :
+   Or Update if already installed but not updated, Use Command :
    ```bash
    pip install --upgrade -r requirements.txt
    ```
@@ -63,17 +60,16 @@ Since this project is a `streamlit`-based web application, so simply `py ftc.py`
 2. You may add more functionality like PDF password encryption and decryption
 3. You may add functionality that allows user to rename the output file to their choice of name before downloading it
 
-# License
-Apache-2.0 license
-
-# Contact me at
-
-LinkedIn Account : www.linkedin.com/in/rayyan-ashraf-71117b249
-Instagram Account : @etsrayy
-Email At : ryshashraf@gmail.com
-
 # Changelog
 1. Currently working on 2nd point of Contributing section.
 
 # Conclusion
-This program is currently compiling with zero error, so you are good to go with it, Thank You
+This program is currently compiling with zero error, so you are good to go with it, **Thank You**
+
+# License
+Apache-2.0 license
+
+# Contact me at
+LinkedIn Account : www.linkedin.com/in/rayyan-ashraf-71117b249<br />
+Instagram Account : @etsrayy<br />
+Email At : ryshashraf@gmail.com
