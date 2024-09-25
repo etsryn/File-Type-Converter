@@ -1,4 +1,4 @@
-# File Type Converter FTC
+# File-Type-Converter-FTC
 
 # Description
 **File Type Converter**, this `Streamlit-based` web application allows users to seamlessly convert between different file formats, including `DOCX` to `PDF`, `PDF` to `CSV`, and `image-to-PDF` conversions (`JPEG`, `PNG`, `JPG`). The application is designed to be **user-friendly**, **fast**, and **reliable**.
