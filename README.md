@@ -1,8 +1,5 @@
 # File-Type-Converter-FTC
 
-# Project Title
-File Type Converter
-
 # Description
 **File Type Converter**, this Streamlit-based web application allows users to seamlessly convert between different file formats, including DOCX to PDF, PDF to CSV, and image-to-PDF conversions (JPEG, PNG, JPG). The application is designed to be user-friendly, fast, and reliable.
 
@@ -22,8 +19,8 @@ File Type Converter
    pip install --upgrade -r requirements.txt
    ```
    # Installation (Method 2)
-1. Open any Integrated Development Environment IDE of your choice on a location where you wish to store the project, i used `VS Code` as IDE
-2. Clone this `.git` repository
+   1. Open any Integrated Development Environment IDE of your choice on a location where you wish to store the project, i used `VS Code` as IDE
+   2. Clone this `.git` repository
    Use Command :
    ```bash
    git clone https://github.com/etsryn/File-Type-Converter.git
@@ -51,6 +48,13 @@ File Type Converter
 - `pdf2image`
 - ReportLab
 
+# File Structure
+📦 file-type-converter
+│
+├── 📜 app.py                 # Main Streamlit app file
+├── 📜 requirements.txt        # Python dependencies for the project
+├── 📜 README.md               # Project documentation (this file)
+
 # Usage
 Since this project is a `streamlit`-based web application, so simply `py ftc.py` won't help to execute this program, instead use
    ```bash
@@ -58,12 +62,12 @@ Since this project is a `streamlit`-based web application, so simply `py ftc.py`
 ```
 ## Features
 
-- Convert **DOCX to PDF**
-- Convert **PDF to DOCX**
-- Convert **PDF to CSV**
-- Convert **CSV to PDF**
-- Convert **PDF to JPEG/JPG/PNG**
-- Convert **JPEG/JPG/PNG to PDF**
+- Convert `DOCX` to `PDF`
+- Convert `PDF` to `DOCX`
+- Convert `PDF` to `CSV`
+- Convert `CSV` to `PDF`
+- Convert `PDF` to `JPEG/JPG/PNG`
+- Convert `JPEG/JPG/PNG` to `PDF`
 
 # Contributing
 1. You can improve the design of UI which may look more professional and easy to use
