@@ -35,7 +35,7 @@
    ```
 
 # Additional Requirement
-1. Poppler for Windows : Link
+### Poppler for Windows : Link Below (Open in any web-browser, then perform the following steps)
    ```bash
    https://github.com/Priyanshiguptaaa/OCRLinguist.git
    ```
@@ -78,7 +78,7 @@ Since this project is a `streamlit`-based web application, so simply `py ftc.py`
 1. Currently working on 2nd point of Contributing section.
 
 # Conclusion
-This program is currently compiling with zero error, so you are good to go with it, **Thank You**
+This program is currently executing with zero error, so you are good to go with it, **Thank You**
 
 # License
 Apache-2.0 license
