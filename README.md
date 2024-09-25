@@ -26,7 +26,7 @@ File Type Converter
 2. Clone this `.git` repository
    Use Command :
    ```bash
-   git clone https://github.com/your-username/file-type-converter.git
+   git clone https://github.com/etsryn/File-Type-Converter.git
    ```
 3. Install the neceesary libraries if not installed earlier
    Use Command :
