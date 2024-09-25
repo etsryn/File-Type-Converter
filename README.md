@@ -34,6 +34,21 @@
    pip install --upgrade -r requirements.txt
    ```
 
+# Additional Requirement
+1. Poppler for Windows : Link
+   ```bash
+   https://github.com/Priyanshiguptaaa/OCRLinguist.git
+   ```
+   <br />
+   Download `poppler-0.68.0_x86.7z` file from above linked git repository.<br />
+   Extract the `.zip` file, by default in `C Drive`<br />
+   Open `poppler-0.68.0` then enter in `bin` directory, copy path `to bin`<br />
+   Press windows key, then search `Edit the system environment variables`, click enter<br />
+   Click on `Environment Variables` on bottom right corner, click<br />
+   In `System Variable` section click `path` then `Edit` then `New`<br />
+   Paste the copied path, click `Ok`, `Ok` then `Ok`<br />
+   Restart the IDE and run the python file `ftp.py`
+   
 # File Structure
 📦 file-type-converter<br />
 │<br />
