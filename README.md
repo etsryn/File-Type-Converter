@@ -39,18 +39,25 @@
    https://github.com/Priyanshiguptaaa/OCRLinguist.git
    ```
 **Step 1** : Download `poppler-0.68.0_x86.7z` file from above linked git repository.<br />
+
 **Step 2** : Extract the `.zip` file, by default in `C Drive`<br />
+
 **Step 3** : Open `poppler-0.68.0` then enter in `bin` directory, copy path `to bin`<br />
+
 **Step 4** : Press windows key, then search `Edit the system environment variables`, click enter<br />
+
 **Step 5** : Click on `Environment Variables` on bottom right corner, click<br />
+
 **Step 6** : In `System Variable` section click `path` then `Edit` then `New`<br />
+
 **Step 7** : Paste the copied path, click `Ok`, `Ok` then `Ok`<br />
+
 **Step 8** : Restart the IDE and run the python file `ftp.py`
 
 # File Structure
 📦 file-type-converter<br />
 │<br />
-├── 📜 app.py&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;&nbsp;Main Streamlit App file<br />
+├── 📜 ftc.py&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;&nbsp;Main Streamlit App file<br />
 ├── 📜 requirements.txt&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;&nbsp;Python dependencies for the project<br />
 ├── 📜 README.md&nbsp;&nbsp;&nbsp;&nbsp;=>&nbsp;&nbsp;&nbsp;&nbsp;Project documentation (this file)<br />
 
